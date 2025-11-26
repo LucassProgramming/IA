@@ -206,7 +206,7 @@ def interfaz():
     global animacion_activa, origen_actual, destino_actual, modo_accesible
 
     root = tk.Tk()
-    root.title("Metro CDMX - A* Simple")
+    root.title("Metro CDMX - A*")
     root.geometry("1400x800")
 
     panel = tk.Frame(root, bg="#DDD", pady=5)
